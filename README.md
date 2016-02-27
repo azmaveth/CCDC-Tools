@@ -1,2 +1,2 @@
 # CCDC-Tools
-Open-source tools for cyber competitions such as CCDC
+Open-source tools for the Mid-Atlantic Collegiate Cyber Defense Competition
